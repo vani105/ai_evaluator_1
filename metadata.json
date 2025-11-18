@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Answer Sheet Grader",
+  "description": "An AI-powered tool for teachers to evaluate student answer sheets. Upload an image of an answer, provide a rubric, and receive a detailed analysis including scores for creativity, handwriting, relevance, presentation, identified mistakes, and personalized improvement recommendations.",
+  "requestFramePermissions": []
+}
